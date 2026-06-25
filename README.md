@@ -17,5 +17,5 @@
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/refs/heads/main/Screenshots/runtime_menu.webp" width="300">
   <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/refs/heads/main/Screenshots/runtime_main.webp" width="300">
-  <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/refs/heads/main/Screenshots/runtime_skins-461x1024.webp" width="400">
+  <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/refs/heads/main/Screenshots/runtime_skins-461x1024.webp" width="300">
 </div>
