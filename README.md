@@ -1,2 +1,19 @@
 # RunTime
-Игра в жанре runner для Android
+Игра в жанрах «раннер», «таймкиллер», «гиперказуал» для Android. Смысл игры заключается в обходе препятствий, в процессе бега, можно выбирать разные скины персонажей. С этого проекта началась моя дорога в Game Dev в 2023 году. Я довел его до игрового состояния. Писать и настраивать все одному и рисовать графику и скрипты довольно сложно, но хорошо, что движок Unity позволяет многое упростить. Надеюсь, игра вам понравится, буду рад финансовой благодарности. Также не забывайте писать отзывы и пожелания. На данный момент проект перенесен на движок Godot
+
+---
+
+## Загрузить приложение
+
+**Для Android:**  
+[Скачать APK Unity версия](https://github.com/art-vvorx/FlyShot/raw/refs/heads/main/releases/flyshot.apk)
+[Скачать APK Godot версия](https://github.com/art-vvorx/FlyShot/raw/refs/heads/main/releases/flyshot.apk)
+
+---
+
+## Скриншоты
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://raw.githubusercontent.com/art-vvorx/FlyShot/refs/heads/main/screenshots/flyshot_boss-461x1024.webp" width="400">
+  <img src="https://raw.githubusercontent.com/art-vvorx/FlyShot/refs/heads/main/screenshots/flyshot_bots-768x1707.webp" width="400">
+</div>
