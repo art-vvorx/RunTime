@@ -15,6 +15,6 @@
 ## Скриншоты
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/476d5c63e562d074d9a6791c77ccf4b38b927649/Screenshots/runtime_main.webp?token=GHSAT0AAAAAAEAVTEES32EG3VRTEU4PDF4U2R4RPFQp" width="200">
+  <img src="https://raw.githubusercontent.com/art-vvorx/RunTime/476d5c63e562d074d9a6791c77ccf4b38b927649/Screenshots/runtime_main.webp?token=GHSAT0AAAAAAEAVTEES32EG3VRTEU4PDF4U2R4RPFQ" width="200">
   <img src="https://raw.githubusercontent.com/art-vvorx/FlyShot/refs/heads/main/screenshots/flyshot_bots-768x1707.webp" width="400">
 </div>
