@@ -13,6 +13,8 @@
 [Скачать APK Godot версия](https://github.com/art-vvorx/RunTime/raw/refs/heads/main/Releases/runtime_godot.apk)
 
 ---
+[Посетить мой сайт](https://artworx.rf.gd/)
+---
 
 ## Скриншоты
 
